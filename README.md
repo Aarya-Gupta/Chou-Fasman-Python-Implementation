@@ -2,7 +2,7 @@
 
 This code implements the Chou Fasman method to predict the secondary structure (helices and strands) of a protein sequence.
 
-**Explanation:**
+**Explanation (only for code.py):**
 
 1. **Data and Initialization:**
     * A dictionary `amino_acid_values` stores scores for each amino acid related to helix (P(h)) and strand (P(s)) propensity.
